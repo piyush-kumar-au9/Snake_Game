@@ -22,6 +22,6 @@ I have also used [Pandas](https://pandas.pydata.org/) library to store the high 
 
 
 #### Software and libraries
-*Python - '3.7.7'*
-*Pandas - '1.0.5'*
-*curses*
+*Python - '3.7.7'*<br/>
+*Pandas - '1.0.5'*<br/>
+*curses*<br/>
